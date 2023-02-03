@@ -1,0 +1,1 @@
+kaspawallet balance shell
